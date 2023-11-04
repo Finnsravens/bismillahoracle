@@ -6,3 +6,5 @@ CREATE TABLE employees (
     salary NUMBER(10, 2),
     department_id NUMBER(3)
 );
+
+DESCRIBE employees;
